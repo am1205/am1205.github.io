@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Generic
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: About
+description: A fun brief insight into the complex man I am 
 ---
 
 ### Lorem ipsum dolor

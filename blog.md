@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Blog
+description: A safe place for people of all academic levels can follow my progress and understand how a newbie in the tech world manoeuvres these tasks
 ---
 
 <section>
