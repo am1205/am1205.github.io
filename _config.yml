@@ -1,7 +1,7 @@
 # Site settings
 title: Anas Mohamed
 email: anasmohamed786@outlook.com
-description: The Jekyll version of the Spectral theme by HTML5 UP.
+description: Blog about me and the advancements I am making
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://am1205.github.io/" # the base hostname & protocol for your site
 
@@ -13,15 +13,8 @@ tiles-count: 3
 featured-image-source:
 
 # Social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: 
-googleplus_url: 
 instagram_url: https://www.instagram.com/anas.m18/?hl=en
 linkedin_url: https://www.linkedin.com/in/anas-mohamed-550049224/
-pinterest_url:
-slack_url:
 twitter_url: https://twitter.com/szechuan__
 
 # Build settings
